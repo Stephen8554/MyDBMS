@@ -1,0 +1,68 @@
+CREATE DATABASE `pfam_result` /*!40100 DEFAULT CHARACTER SET latin1 */;
+
+CREATE TABLE `project_seq` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Seq_Id` varchar(32) NOT NULL,
+  `Seq` varchar(32) NOT NULL,
+  `Uid` int(11) NOT NULL,
+  `site_sp` int(11) DEFAULT '0',
+  `num_tmd` int(11) DEFAULT '0',
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=44060 DEFAULT CHARSET=utf8 COMMENT='result of interpro'
+
+CREATE TABLE `project_abbr` (
+  `Id` tinyint(4) NOT NULL AUTO_INCREMENT,
+  `name` varchar(32) NOT NULL,
+  `name_abbr` varchar(32) NOT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8
+
+CREATE TABLE `proteinid` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `PF` varchar(16) NOT NULL,
+  `GH` varchar(32) DEFAULT NULL,
+  `REMARK` varchar(16) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=99 DEFAULT CHARSET=utf8 COMMENT='different protein has different id in different databases'
+
+CREATE TABLE `res_pfam` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(32) NOT NULL,
+  `signature_desc` varchar(128) NOT NULL,
+  `Target` varchar(32) NOT NULL,
+  `start` int(11) NOT NULL,
+  `stop` int(11) NOT NULL,
+  `status` varchar(8) NOT NULL,
+  `ID_SEQ` varchar(64) NOT NULL,
+  `date` varchar(32) NOT NULL,
+  `Uid` tinyint(4) NOT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=63444 DEFAULT CHARSET=utf8 COMMENT='result of interpro
+
+CREATE TABLE `res_smart` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(32) NOT NULL,
+  `signature_desc` varchar(128) NOT NULL,
+  `Target` varchar(32) NOT NULL,
+  `start` int(11) NOT NULL,
+  `stop` int(11) NOT NULL,
+  `status` varchar(8) NOT NULL,
+  `ID_SEQ` varchar(64) NOT NULL,
+  `date` varchar(32) NOT NULL,
+  `Uid` tinyint(4) NOT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=14894 DEFAULT CHARSET=utf8 COMMENT='result of interpro'
+
+CREATE TABLE `res_tigrfam` (
+  `Id` int(11) NOT NULL AUTO_INCREMENT,
+  `Name` varchar(32) NOT NULL,
+  `signature_desc` varchar(128) NOT NULL,
+  `Target` varchar(32) NOT NULL,
+  `start` int(11) NOT NULL,
+  `stop` int(11) NOT NULL,
+  `status` varchar(8) NOT NULL,
+  `ID_SEQ` varchar(64) NOT NULL,
+  `date` varchar(32) NOT NULL,
+  `Uid` tinyint(4) NOT NULL,
+  PRIMARY KEY (`Id`)
+) ENGINE=InnoDB AUTO_INCREMENT=12982 DEFAULT CHARSET=utf8 COMMENT='result of interpro.tigrfam'
