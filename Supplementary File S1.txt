@@ -1,0 +1,62 @@
+CAZy Family	Locus	Function	Modular structure	TMD	SP
+GH9	WP_045457513.1	Glycosyl hydrolase family 9	NOTGH-GH9-	0	26
+GH57	WP_045457520.1	Glycosyl hydrolase family 57	GH57-	0	0
+GH8	WP_045458888.1	Glycosyl hydrolases family 8	GH8-	1	24
+GH31	WP_045459042.1	Glycosyl hydrolases family 31	NOTGH-GH31-	0	0
+GH5	WP_045459086.1	Cellulase (glycosyl hydrolase family 5)	GH5-	0	20
+GH39	WP_045459197.1	Glycosyl hydrolases family 39	GH39-	0	0
+GH15	WP_045459331.1	Glycosyl hydrolases family 15	GH15-	0	0
+GH3	WP_045459396.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	1	0
+GH9	WP_045459743.1	Glycosyl hydrolase family 9	GH9-NOTGH-NOTGH(2)-	0	0
+GH9	WP_045461166.1	Glycosyl hydrolase family 9	NOTGH-GH9-	0	0
+GH8	WP_045461229.1	Glycosyl hydrolases family 8	GH8-	0	0
+GH3	WP_045461239.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	0	0
+GH9	WP_045461678.1	Glycosyl hydrolase family 9	GH9-NOTGH(2)-	0	20
+GH1	WP_045462158.1	Glycosyl hydrolase family 1	GH1-	0	0
+GH9	WP_045462359.1	Glycosyl hydrolase family 9	NOTGH-GH9-NOTGH(2)-	0	0
+GH5	WP_045462476.1	Cellulase (glycosyl hydrolase family 5)	GH5-	1	0
+GH8	WP_045462485.1	Glycosyl hydrolases family 8	GH8-	0	0
+GH3	WP_045462537.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	0	0
+GH10	WP_045462620.1	Glycosyl hydrolase family 10	GH10-	0	0
+GH16	WP_045462623.1	Glycosyl hydrolases family 16	GH16-	0	0
+GH30	WP_045462626.1	O-Glycosyl hydrolase family 30	GH30-	1	20
+GH43	WP_045462635.1	Glycosyl hydrolases family 43	GH43-NOTGH-	0	0
+GH43	WP_045462646.1	Glycosyl hydrolases family 43	GH43-	0	0
+GH11	WP_045462660.1	Glycosyl hydrolases family 11	GH11-	0	18
+GH8	WP_045462663.1	Glycosyl hydrolases family 8	GH8-	0	0
+GH8	WP_045462752.1	Glycosyl hydrolases family 8	GH8-NOTGH-NOTGH(2)-	0	0
+GH5	WP_045462754.1	Cellulase (glycosyl hydrolase family 5)	GH5-	0	0
+GH43	WP_045463806.1	Glycosyl hydrolases family 43	GH43-NOTGH-	0	0
+GH43	WP_045463809.1	Glycosyl hydrolases family 43	GH43-	0	0
+GH13	WP_045463867.1	Alpha amylase, catalytic domain	GH13-	0	0
+GH5	WP_045463894.1	Cellulase (glycosyl hydrolase family 5)	GH5-	0	24
+GH5	WP_045463943.1	Cellulase (glycosyl hydrolase family 5)	GH5-	0	24
+GH3	WP_045463997.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	0	0
+GH5	WP_045464133.1	Cellulase (glycosyl hydrolase family 5)	GH5-	1	24
+GH65	WP_045464548.1	Glycosyl hydrolase family 65, N-terminal domain	GH65-GH65-GH65-	0	0
+GH8	WP_045464676.1	Glycosyl hydrolases family 8	GH8-	0	0
+GH5	WP_045465068.1	Cellulase (glycosyl hydrolase family 5)	GH5-NOTGH(2)-	0	0
+GH8	WP_045465337.1	Glycosyl hydrolases family 8	GH8-NOTGH-	1	0
+GH53	WP_045465456.1	Glycosyl hydrolase family 53	GH53-	0	22
+GH3	WP_045465467.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	0	0
+GH97	WP_045465502.1	Glycoside hydrolase 97	NOTGH-GH97-NOTGH-	0	0
+GH10	WP_045465596.1	Glycosyl hydrolase family 10	GH10-	0	0
+GH18	WP_045466000.1	Glycosyl hydrolases family 18	GH18-	3	0
+GH5	WP_045466033.1	Cellulase (glycosyl hydrolase family 5)	GH5-	1	25
+GH9	WP_045466200.1	Glycosyl hydrolase family 9	NOTGH-GH9-	0	0
+GH16	WP_045466211.1	Glycosyl hydrolases family 16	GH16-	0	0
+GH5	WP_045466213.1	Cellulase (glycosyl hydrolase family 5)	GH5-	1	20
+GH8	WP_045466291.1	Glycosyl hydrolases family 8	GH8-	0	0
+GH2	WP_045466293.1	Glycosyl hydrolases family 2	GH2-	0	0
+GH15	WP_045466421.1	Glycosyl hydrolases family 15	GH15-	0	0
+GH43	WP_045466811.1	Glycosyl hydrolases family 43	GH43-GH43-	0	0
+GH8	WP_045466885.1	Glycosyl hydrolases family 8	GH8-	0	0
+GH16	WP_045467512.1	Glycosyl hydrolases family 16	GH16-	0	0
+GH3	WP_045467805.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	0	0
+GH8	WP_045467977.1	Glycosyl hydrolases family 8	GH8-NOTGH-NOTGH(2)-NOTGH(2)-	0	0
+GH8	WP_045468300.1	Glycosyl hydrolases family 8	GH8-	0	0
+GH16	WP_045468306.1	Glycosyl hydrolases family 16	GH16-	0	0
+GH26	WP_045468799.1	Glycosyl hydrolase family 26	GH26-	0	0
+GH13	WP_045469131.1	Alpha amylase, catalytic domain	NOTGH-GH13-NOTGH-	0	0
+GH3	WP_045469761.1	Glycosyl hydrolase family 3 N terminal domain	GH3-	1	0
+GH9	WP_045469868.1	Glycosyl hydrolase family 9	NOTGH-GH9-	0	0
