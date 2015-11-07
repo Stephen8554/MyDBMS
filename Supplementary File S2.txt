@@ -1,0 +1,39 @@
+CAZy Family	Locus	Function	Modular structure	TMD	SP
+GH3	WP_011583423.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	1	0
+GH15	WP_011583805.1	Glycosyl hydrolases family 15	GH15-	0	0
+GH3	WP_011583875.1	Glycosyl hydrolase family 3 N terminal domain	GH3-	0	17
+GH57	WP_011584204.1	Glycosyl hydrolase family 57	GH57-	0	0
+GH13	WP_011584351.1	Alpha amylase, catalytic domain	GH13-	0	0
+GH16	WP_011584373.1	Glycosyl hydrolases family 16	GH16-	0	0
+GH8	WP_011584467.1	Glycosyl hydrolases family 8	GH8-NOTGH(2)-	1	24
+GH5	WP_011584498.1	Cellulase (glycosyl hydrolase family 5)	GH5-NOTGH(2)-	1	26
+GH9	WP_011584722.1	Glycosyl hydrolase family 9	GH9-BIG-BIG-BIG-BIG-BIG-BIG-BIG-BIG-BIG-BIG-BIG-NOTGH(2)-	12	24
+GH9	WP_011584723.1	Glycosyl hydrolase family 9	GH9-NOTGH(2)-	0	22
+GH13	WP_011584732.1	Alpha amylase, catalytic domain	NOTGH-GH13-NOTGH-	0	0
+GH5	WP_011585111.1	Cellulase (glycosyl hydrolase family 5)	NOTGH-GH5-	0	17
+GH5	WP_011585226.1	Cellulase (glycosyl hydrolase family 5)	GH5-	0	0
+GH43	WP_011585424.1	Glycosyl hydrolases family 43	GH43-NOTGH-PDK1(1)-PDK1(1)-NOTGH(2)-	0	0
+GH10	WP_011585485.1	Glycosyl hydrolase family 10	NOTGH-GH10-NOTGH(2)-	0	20
+GH9	WP_011585615.1	Glycosyl hydrolase family 9	GH9-	0	0
+GH3	WP_011585648.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	0	0
+GH3	WP_011585652.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	0	18
+GH13	WP_011585779.1	Alpha amylase, catalytic domain	GH13-NOTGH-	0	0
+GH16	WP_011586160.1	Glycosyl hydrolases family 16	GH16-	0	19
+GH76	WP_011586179.1	Glycosyl hydrolase family 76	NOTGH-NOTGH-GH76-	0	0
+GH8	WP_011586782.1	Glycosyl hydrolases family 8	GH8-NOTGH-	1	0
+GH3	WP_011586917.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	0	0
+GH3	WP_011587121.1	Glycosyl hydrolase family 3 N terminal domain	GH3-GH3-NOTGH-	0	0
+GH9	WP_041932172.1	Glycosyl hydrolase family 9	NOTGH-GH9-NOTGH(2)-	1	22
+GH31	WP_041932178.1	Glycosyl hydrolases family 31	NOTGH-GH31-	0	0
+GH9	WP_041932235.1	Glycosyl hydrolase family 9	NOTGH-GH9-	1	23
+GH26	WP_041932529.1	Glycosyl hydrolase family 26	GH26-	0	0
+GH9	WP_041932588.1	Glycosyl hydrolase family 9	NOTGH-GH9-GH9-	0	0
+GH8	WP_041932617.1	Glycosyl hydrolases family 8	GH8-	0	0
+GH9	WP_041932650.1	Glycosyl hydrolase family 9	NOTGH-GH9-	0	0
+GH43	WP_041932685.1	Glycosyl hydrolases family 43	GH43-NOTGH-PDK1(1)-PDK1(1)-NOTGH(2)-	0	0
+GH5	WP_041932693.1	Cellulase (glycosyl hydrolase family 5)	GH5-	1	23
+GH13	WP_041932749.1	Alpha amylase, catalytic domain	GH13-	0	0
+GH8	WP_041932771.1	Glycosyl hydrolases family 8	GH8-	0	0
+GH8	WP_041932812.1	Glycosyl hydrolases family 8	GH8-NOTGH-	1	0
+GH8	WP_041932828.1	Glycosyl hydrolases family 8	GH8-	0	0
+GH1	WP_041932840.1	Glycosyl hydrolase family 1	GH1-	0	0
